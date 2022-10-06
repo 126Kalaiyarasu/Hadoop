@@ -1,0 +1,24 @@
+ifconfig
+  975  mkdir swami
+  976  cd swami
+  977  hadoop fs -mkdir/swami vivekanandha
+  978  hadoop fs -mkdir/swami
+  979  hadoop fs -mkdir /swami
+  980  hadoop fs -CopyFromLocal /home/edureka/Desktop
+  981  hadoop fs -CopyFromLocal /home/edureka/Desktop/swami /Swami vivekanandha
+  982  hadoop fs -CopyFromLocal Swami vivekanandha.txt /swami
+  983  hadoop fs -copyFromLocal Swami vivekanandha.txt /swami
+  984  hadoop fs -copyFromLocal vivekandha.txt /swami
+  985  hadoop fs -copyFromLocal vivekanandha.txt /swami
+  986  hadoop fs -mkdir motivation
+  987  hadoop fs -mkdir /Motivation
+  988  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /swami /Motivation /wordcount
+  989  hadoop jar hadoop-mapreduce-examples-2.2.0.jar 
+  990  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /swami /Motivation /wordcount
+  991  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /swami/vivekananda /swami/count
+  992  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /swami/vivekanandha /swami/count
+  993  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordcount /swami/vivekanandha.txt /swami/count
+  994  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmean /swami/vivekanandha.txt /swami/mean
+  995  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordmedian /swami/vivekanandha.txt /swami/median
+  996  hadoop jar hadoop-mapreduce-examples-2.2.0.jar wordstandarddeviation /swami/vivekanandha.txt /swami/SD
+
